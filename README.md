@@ -74,7 +74,7 @@ LibreHardwareMonitor will be installed automatically on first run.
 
 2\. Run `ForgeGuard.ps1`
 
-3\. ForgeGuard will monitor your GPU temperature every 5 seconds
+3\. ForgeGuard will monitor your GPU temperature every 2 seconds
 
 4\. Press `Ctrl+C` to quit
 
